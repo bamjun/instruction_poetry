@@ -3,5 +3,5 @@
   - poetry new [프로젝트이름]
   &darr; `/` &darr; `bash shell`
   ```bash
-  
+  poetry new app
   ```
