@@ -24,7 +24,9 @@
   <br>
 
 - 포이트리 프로젝트 만들기  
-  - poetry new [프로젝트이름] or poetry init
+  - poetry new [프로젝트이름] or poetry init  
+  - poetry new(폴더 추가하고 폴더안에 기본패키지)  
+  - poetry init(현재경로에 toml 파일만 추가하면서, 설정 커스텀 가능)  
 
   &darr; `/` &darr; `bash shell`
   ```bash
@@ -64,5 +66,5 @@
 
   ![alt text](images/markdown-image.png)  
 
-  
+
 <br>
