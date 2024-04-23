@@ -6,9 +6,15 @@
 - 포이트리 설치하기  
   
   &darr; `/` &darr; `bash shell`
-
+  
+  - mac  
   ```bash
   curl -sSL https://install.python-poetry.org | python3 -
+  ```
+
+  - windows  
+  ```bash
+  curl -sSL https://install.python-poetry.org | python -
   ```
 
 <br>
