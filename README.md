@@ -17,13 +17,6 @@
     curl -sSL https://install.python-poetry.org | python3 -
     ```
 
-  - For windows OS  
-    &darr; `/` &darr; `bash shell`
-
-    ```bash
-    curl -sSL https://install.python-poetry.org | python -
-    ```
-
 <br>
 
 - 포이트리 설치 되어있는지 버전 확인  
