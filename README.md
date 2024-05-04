@@ -4,12 +4,25 @@
 # poetry 프로젝트 시작하기 [링크](https://python-poetry.org/docs/basic-usage/)  
 
 - 포이트리 설치하기  
-  
-  &darr; `/` &darr; `bash shell`
+  - `pip install poetry` - `poetry` 명령어가 실행 안돼는 에러가 발생할수 있지만 가장 쉬운 시작..      
+    &darr; `/` &darr; `bash shell`
+    ```bash
+    pip install poetry
+    ```
 
-  ```bash
-  curl -sSL https://install.python-poetry.org | python3 -
-  ```
+  - For Mac OS  
+    &darr; `/` &darr; `bash shell`
+
+    ```bash
+    curl -sSL https://install.python-poetry.org | python3 -
+    ```
+
+  - For windows OS  
+    &darr; `/` &darr; `bash shell`
+
+    ```bash
+    curl -sSL https://install.python-poetry.org | python -
+    ```
 
 <br>
 
